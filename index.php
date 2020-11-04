@@ -9,5 +9,9 @@
 <body>
     <h1>Hello World!</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem nam consequuntur corrupti expedita eius explicabo adipisci quidem iure? Sit hic unde tempore, eius recusandae iure officiis exercitationem minima nemo facere?</p>
+    <ul>
+        <li>Rizki</li>
+        <li>Muhammad Rizki</li>
+    </ul>
 </body>
 </html>
